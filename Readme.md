@@ -1,9 +1,9 @@
 # Личный проект «Седона»
 
 * Студент: [Алеся Павлович](https://up.htmlacademy.ru/htmlcss/24/user/862671).
-* Наставник: `Неизвестно`.
+* Наставник: [Юлия Антонова] (https://htmlacademy.ru/profile/id39082).
 
----
+
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
